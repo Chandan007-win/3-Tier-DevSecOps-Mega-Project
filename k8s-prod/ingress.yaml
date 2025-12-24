@@ -48,4 +48,4 @@ spec:
     - hosts:
         - adityajaiswal.com
         - www.adityajaiswal.com
-      secretName: adityajaiswal-co-tls
+      secretName: letsencrypt-prod
